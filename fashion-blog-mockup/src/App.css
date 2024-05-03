@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin:30px;
 }
 
 .App-logo {
@@ -35,4 +36,80 @@
   to {
     transform: rotate(360deg);
   }
+}
+.homePage {
+  /* display: flex;
+  /* flex-direction: column; */
+  /* justify-content: flex-start; */ 
+  border: solid white;
+  height: 200px;
+}
+.homePageTitle {
+  font-family: "Gill Sans MT Pro Light";
+  font-size: 60pt;
+  letter-spacing: 4px; 
+  color: #DF4C43;
+  /* border: solid black; */
+  text-align: left;
+  /* margin-top:30vh; */
+  margin-bottom:0%;
+ 
+}
+.homePageSubtitle {
+  font-family: "Gill Sans MT Pro Light";
+  font-size: 25pt;
+  /* border: solid black; */
+  text-align: left;
+  margin-top:0px;
+  letter-spacing: 1px; 
+}
+
+.navBar {
+  display: flex;
+  justify-content:space-between;
+  /* border: 1px solid black; */
+  margin-top: 20px;
+
+}
+.navBar > a {
+  color: #808080;
+  font-family: "Gill Sans MT Pro Light";
+  font-size: 20pt;
+}
+
+.blogTitle > h3 {
+  color: #808080;
+  font-family: "Gill Sans MT Pro Light";
+  font-size: 30pt;
+  text-align: left;
+  margin-top: 70px;
+  margin-bottom: 0px;
+  /* border: 1px solid black; */
+}
+.blogTitle > h1 {
+  font-size: 50pt;
+  font-family: "Gill Sans MT Pro Light";
+  text-align: left;
+  /* border: 1px solid black; */
+  margin: 0px;
+  font-weight:lighter;
+}
+
+.blogContent{
+  color: #808080;
+  font-family: "Gill Sans MT Pro Light";
+  text-align: justify;
+  font-size: 30pt;
+}
+.letterC {
+  font-size: 120pt;
+  float:left;
+  padding: 15px;
+  margin-right:20px;
+}
+
+.continues {
+  text-align: right;
+  color: #DF4C43;
+  font-size: 20pt;
 }

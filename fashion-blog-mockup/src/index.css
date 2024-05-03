@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: "Gill Sans MT Pro Light";
+  src: url("./fonts/Gill-Sans-MT-Pro-Light.otf") format("opentype");
+  /* font-weight: lighter; */
+}
