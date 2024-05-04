@@ -1,0 +1,2 @@
+export const navLinks = ["Women's", "Men's", "On the Street", "The Catwalk", "AdWatch", "About"];
+export const footerLinks = ["Home", "Women's", "Men's", "On the Street", "The Catwalk", "AdWatch", "About", "Tips"];

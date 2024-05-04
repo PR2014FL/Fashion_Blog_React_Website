@@ -1,8 +1,15 @@
 import React from 'react'
 
-function FooterLinks() {
+function FooterLinks({content}) {
   return (
-    <div>FooterLinks</div>
+
+    <div className="footerLinks">
+       {content.map(link => { 
+                // return console.log(link)
+                return <a href="#">{link}</a>
+            }            
+            )}
+    </div>
   )
 }
 

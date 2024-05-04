@@ -94,14 +94,22 @@
   margin: 0px;
   font-weight:lighter;
 }
-
+.blogImage {
+  margin: 0px;
+  /* border: solid black; */
+  box-sizing: content-box;
+}
+.blogImage > img {
+  width: 100%
+}
 .blogContent{
   color: #808080;
   font-family: "Gill Sans MT Pro Light";
-  text-align: justify;
   font-size: 30pt;
+  text-align: justify;
 }
-.letterC {
+
+.blogContent::first-letter {
   font-size: 120pt;
   float:left;
   padding: 15px;
@@ -112,4 +120,23 @@
   text-align: right;
   color: #DF4C43;
   font-size: 20pt;
+}
+
+.footerLinks {
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.footerLinks > a{
+  font-family: "Gill Sans MT Pro Light";
+  font-size: 25pt;
+  color: #DF4C43;
+  text-decoration: none;
+}
+.footer {
+  text-align: left;
+  color: #808080;
+  font-family: "Gill Sans MT Pro Light";
+  font-size: 20pt;
+  margin-top: 15px;
 }

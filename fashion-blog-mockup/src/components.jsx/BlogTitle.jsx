@@ -1,10 +1,10 @@
 import React from 'react'
 
-function BlogTitle() {
+function BlogTitle({content}) {
   return (
     <div className="blogTitle">
-        <h3>11/12/20</h3>
-        <h1>On the Street in Brooklyn</h1>
+        <h3>{content.date}</h3>
+        <h1>{content.title}</h1>
     </div>
   )
 }
