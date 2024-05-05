@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Fashion_Blog_React_Website/fashion-blog-mockup/static/css/main.615d9e9b.css",
+    "main.js": "/Fashion_Blog_React_Website/fashion-blog-mockup/static/js/main.e9c0f5c3.js",
+    "static/js/453.b3444461.chunk.js": "/Fashion_Blog_React_Website/fashion-blog-mockup/static/js/453.b3444461.chunk.js",
+    "static/media/Brooklyn.png": "/Fashion_Blog_React_Website/fashion-blog-mockup/static/media/Brooklyn.a27cbfc2427ce968095d.png",
+    "static/media/threeFashionModels.png": "/Fashion_Blog_React_Website/fashion-blog-mockup/static/media/threeFashionModels.134a2a3bac3a75d2f3e4.png",
+    "static/media/Gill-Sans-MT-Pro-Light.otf": "/Fashion_Blog_React_Website/fashion-blog-mockup/static/media/Gill-Sans-MT-Pro-Light.1463d2fcf25ee4459e33.otf",
+    "index.html": "/Fashion_Blog_React_Website/fashion-blog-mockup/index.html",
+    "main.615d9e9b.css.map": "/Fashion_Blog_React_Website/fashion-blog-mockup/static/css/main.615d9e9b.css.map",
+    "main.e9c0f5c3.js.map": "/Fashion_Blog_React_Website/fashion-blog-mockup/static/js/main.e9c0f5c3.js.map",
+    "453.b3444461.chunk.js.map": "/Fashion_Blog_React_Website/fashion-blog-mockup/static/js/453.b3444461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.615d9e9b.css",
+    "static/js/main.e9c0f5c3.js"
+  ]
+}
